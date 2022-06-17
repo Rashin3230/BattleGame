@@ -1,0 +1,2 @@
+# BattleGame
+Basic Blazor Project
